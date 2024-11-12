@@ -1,4 +1,4 @@
-# Sentiment Analysis for Cyber Risk Intelligence
+# Cyber Risk Sentiment Analysis using Natural Language Processing
 
 ## Project Overview
 This project performs sentiment analysis on Reddit posts from cyber risk-related subreddits to gauge public sentiment on cyber risks, vulnerabilities, and incidents. Leveraging Natural Language Processing (NLP) techniques, it analyzes large volumes of unstructured data and provides insights into trending cyber threats, user sentiments, and potential areas of cyber risk. The results aim to support cybersecurity decision-making, threat intelligence, and risk management for organizations like Marsh.
