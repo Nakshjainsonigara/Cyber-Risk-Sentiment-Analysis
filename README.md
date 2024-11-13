@@ -1,9 +1,9 @@
 # Cyber Risk Sentiment Analysis using Natural Language Processing
 
 ## Project Overview
-This project performs sentiment analysis on Reddit posts from cyber risk-related subreddits to gauge public sentiment on cyber risks, vulnerabilities, and incidents. Leveraging Natural Language Processing (NLP) techniques, it analyzes large volumes of unstructured data and provides insights into trending cyber threats, user sentiments, and potential areas of cyber risk. The results aim to support cybersecurity decision-making, threat intelligence, and risk management for organizations.
+This project performs sentiment analysis on Reddit posts from cyber risk-related subreddits to gauge public sentiment on cyber risks, vulnerabilities, and incidents. Leveraging Natural Language Processing (NLP) techniques, including entity extraction to identify key cyber threats, it analyzes large volumes of unstructured data and provides insights into trending cyber threats, user sentiments, and potential areas of cyber risk. The results aim to support cybersecurity decision-making, threat intelligence, and risk management for organizations.
 
-View the [Interactive Kaggle Notebook](https://www.kaggle.com/code/nakshjain11/cyber-risk-sentiment-analysis-using-nlp)
+View the [Interactive Kaggle Notebook](https://www.kaggle.com/code/nakshjain11/cyber-risk-sentiment-analysis)
 ---
 
 ## Objectives
@@ -42,12 +42,16 @@ View the [Interactive Kaggle Notebook](https://www.kaggle.com/code/nakshjain11/c
    - Word clouds to visualize commonly discussed topics.
    - Bar charts and sentiment distribution graphs to present insights into sentiment trends.
 
+6. **Entity Extraction and Analysis**
+   - **Entity Extraction**: Named entities (such as organizations, technologies, and cyber threats) are extracted from the cleaned text using spaCy. This process identifies and isolates key terms relevant to cybersecurity.
+
+   - **Entity Analysis**: After extraction, entities are categorized, filtered, and analyzed for frequency and associated sentiment (positive, negative, or neutral). 
 ---
 
 ## Technology Stack
 - **Programming Language**: Python
 - **Data Collection**: PRAW (Python Reddit API Wrapper)
-- **Data Processing and NLP**: NLTK, TextBlob, WordNetLemmatizer, Stopwords, re (regex)
+- **Data Processing and NLP**: NLTK, TextBlob, WordNetLemmatizer, Stopwords, re (regex),spaCy
 - **Sentiment Analysis**: VADER, Hugging Face Transformers (DistilBERT)
 - **Feature Extraction**: Scikit-learn (TF-IDF Vectorizer, Count Vectorizer)
 - **Visualization**: Matplotlib, WordCloud
@@ -60,7 +64,7 @@ View the [Interactive Kaggle Notebook](https://www.kaggle.com/code/nakshjain11/c
 - **DistilBERT Sentiment Analysis**: A transformer-based model fine-tuned on sentiment data (SST-2).
 - **TF-IDF Vectorization**: Calculates term frequency-inverse document frequency for feature extraction.
 - **Count Vectorization**: Extracts features based on word frequency, useful for identifying prominent themes in cybersecurity discussions.
-
+- **Named Entity Recognition**: Extracts relevant entities (e.g., threats, technologies) for focused analysis.
 ---
 
 ## Insights and Findings
@@ -73,7 +77,7 @@ Sentiment analysis of **cyber risk** discussions on social media or forums can p
 
 - **Neutral Sentiment**: Neutral posts provide objective, fact-based information without strong emotions. These could include news articles, updates on **cybersecurity** policies, or technical discussions about vulnerabilities and solutions. Although neutral posts may not indicate any urgent problems, they offer valuable data about ongoing trends, research, or industry standards. Tracking neutral sentiment helps organizations keep track of non-urgent but important developments that may impact **cyber risk** in the long run.
 
-From this Analysis, We infer that:
+From Model Comparision, We infer that:
 
 - **VADER** tends to categorize a larger portion of posts as **Neutral**, which might indicate that it is more conservative or cautious in assigning clear sentiment, especially with text that has mixed or subtle tones.
   
@@ -81,6 +85,14 @@ From this Analysis, We infer that:
 
 - This difference highlights that VADER is better suited for general sentiment detection in informal contexts, while BERT’s ability to understand context in greater depth allows it to more confidently classify posts into distinct sentiment categories.
 
+The top entities reveal focused areas in cyber risk discussions:
+
+1. **Pentagon** : The negative sentiment classification from BERT suggests that discussions about the Pentagon are likely focused on potential cybersecurity risks or vulnerabilities.
+
+2. **Cyber Threat Intelligence (CTI)** : CTI is primarily discussed with negative sentiment, underscoring industry concerns related to intelligence on potential threats and vulnerabilities.
+
+3. **RTM Locker Ransomware** : This specific ransomware variant is mentioned with consistent negative sentiment, highlighting ongoing risks associated with ransomware attacks.
+   
 ---
 
 ## Conclusion
