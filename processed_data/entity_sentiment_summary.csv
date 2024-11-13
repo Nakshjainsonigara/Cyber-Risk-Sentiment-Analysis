@@ -1,0 +1,795 @@
+entity_text,Sentiment_Label,sentiment_bert,count
+aaceedecceccaad eeafeaeccedadadebdfccaf afdebbefcefeceb daecaceffacaaed,Positive,negative,1
+addon,Positive,negative,1
+aes encryption default remote,Positive,negative,1
+afternoon,Positive,negative,2
+afternoon cisco,Negative,negative,1
+age learned code year old,Positive,positive,1
+agenda apt,Positive,positive,1
+al,Negative,negative,1
+al new resource mean,Positive,negative,1
+albus,Negative,negative,1
+all couple month ago,Positive,negative,1
+allison miller,Positive,negative,1
+almost seven million,Negative,negative,1
+almost two year,Positive,negative,1
+almost two year later,Positive,negative,1
+almost year,Positive,negative,4
+almost zero,Positive,negative,1
+alyssa miller,Positive,negative,1
+america,Positive,negative,4
+american,Negative,negative,2
+american dream academy,Positive,negative,1
+amount year,Positive,negative,1
+andy elli,Positive,negative,1
+annual,Positive,negative,2
+another week,Positive,negative,1
+apg cisco,Negative,negative,1
+apollo,Positive,negative,1
+applicationx,Positive,negative,1
+approximately million,Negative,negative,1
+approximately million,Positive,negative,1
+approximately minute,Positive,positive,1
+apps running electron,Positive,negative,1
+apps various apk,Negative,negative,1
+appsec pine approach appsec,Positive,negative,1
+april,Negative,negative,1
+april,Positive,negative,2
+apt adversary group active enviroment industry,Positive,negative,1
+arab,Positive,negative,1
+around k year,Positive,negative,1
+around week ago,Positive,negative,1
+around year,Positive,negative,1
+around year month,Positive,negative,1
+ashburn va major,Positive,negative,1
+asia,Negative,negative,2
+asos harvard university,Positive,negative,1
+assurance brian,Positive,negative,1
+att,Positive,negative,2
+attacker jumpbox,Negative,negative,1
+attck w john strand,Positive,negative,1
+august,Positive,negative,6
+august session hour,Positive,negative,1
+australia,Negative,negative,3
+australia,Positive,negative,1
+av,Positive,negative,1
+avira av,Positive,negative,1
+avira av running,Positive,negative,1
+awsccp tssci,Positive,negative,1
+bachelor computer science,Positive,positive,1
+baltimore county,Negative,negative,1
+bank db bank,Positive,negative,1
+bash,Positive,negative,1
+bash bunny,Positive,negative,1
+bash python,Negative,negative,1
+basta,Negative,negative,1
+basta,Positive,negative,1
+bbc china,Negative,negative,1
+bbc sony,Positive,negative,1
+beijing,Negative,negative,1
+belgian,Negative,negative,1
+belgium bridge,Negative,negative,1
+berkeley,Positive,negative,1
+berlin,Positive,negative,1
+betsy beyer,Positive,negative,1
+better year ago,Positive,negative,1
+biden,Positive,negative,1
+billion,Negative,negative,1
+billion,Positive,negative,1
+billion dollar,Positive,negative,1
+bla bla,Positive,negative,1
+black basta webinar,Positive,negative,1
+blumira customer,Positive,negative,1
+blumira logmira,Negative,negative,1
+bmw lamborghini financial time europa jaguar harvey,Positive,negative,1
+bnmodsqrt,Negative,negative,1
+browsing cruz report cybersecurity talent,Positive,negative,1
+bsc,Positive,negative,1
+bsc java,Positive,negative,1
+bt university,Positive,negative,1
+builtin,Negative,negative,1
+builtin msi,Negative,negative,1
+byte,Positive,negative,5
+byte mtcp optional data optional field,Positive,negative,1
+california,Negative,negative,1
+california,Positive,negative,3
+california department technology cybersecurity task force,Positive,negative,1
+campbell coca cola time,Positive,negative,1
+canada,Positive,negative,1
+canada germany,Negative,negative,1
+career year ago,Negative,negative,1
+carla sweeney,Positive,negative,1
+checkhighprivilegegroupsconn highprivgroups domain,Positive,negative,1
+checksum,Positive,negative,2
+checkunconstraineddelegationconn connsearchsearchbasedcexampledccom,Positive,negative,1
+chevrolet,Positive,negative,2
+chicago,Positive,positive,1
+china,Negative,negative,11
+china,Positive,negative,2
+chinese,Negative,negative,3
+chinese,Positive,negative,8
+chris,Negative,positive,1
+chris,Positive,negative,2
+chris crowley hour mon aug pm pm edt,Positive,negative,1
+chris hughes ciso,Positive,negative,1
+chris krebs,Negative,negative,1
+christian,Positive,negative,1
+christian,Positive,positive,1
+christopher krebs,Negative,negative,1
+ci control ci benchmark,Positive,negative,1
+ci control nice know,Positive,negative,1
+cia,Positive,negative,4
+cisa warns attacker exploiting,Negative,negative,1
+cisco networking academy,Positive,positive,1
+cismcissp,Positive,negative,1
+ciso federal reserve bank philadelphia,Positive,negative,1
+ciso umwc,Positive,positive,1
+cissp ceh cissp,Positive,negative,1
+cissp cisa,Positive,negative,1
+cissp working iam,Positive,negative,1
+classa moron,Negative,negative,1
+cmss,Positive,negative,1
+cnn,Positive,negative,3
+cofounder,Positive,positive,1
+coming day week,Positive,negative,1
+corey greenwald,Positive,negative,1
+costco gucci,Positive,negative,1
+couple minute,Positive,negative,1
+couple month,Positive,negative,3
+couple month ago,Positive,negative,1
+couple month back,Positive,negative,1
+couple month first day,Positive,positive,1
+couple week,Positive,negative,1
+couple week,Positive,positive,1
+couple week ago,Negative,negative,1
+couple year,Positive,negative,2
+couple year ago,Positive,negative,1
+crown,Positive,negative,1
+ctf hackxor,Positive,negative,1
+ctfs,Negative,negative,1
+ctfs,Positive,negative,11
+ctfs,Positive,positive,1
+cti,Negative,negative,7
+cti,Positive,negative,12
+cti,Positive,positive,1
+cybersecurity hackthebox,Negative,negative,1
+cybersecurity university however university,Negative,negative,1
+daily,Negative,negative,2
+daily,Positive,negative,12
+daily,Positive,positive,2
+dan boneh,Positive,negative,1
+dang,Positive,negative,1
+daniel gericke,Positive,negative,1
+daniel miesslers blog,Positive,negative,1
+david rushmer,Negative,negative,1
+day,Positive,positive,1
+day ago,Negative,negative,1
+day ago,Positive,negative,1
+day day,Negative,negative,1
+day day,Positive,negative,4
+day every day,Positive,negative,1
+decade,Positive,negative,1
+december,Negative,negative,1
+december,Positive,negative,1
+december last year eccouncil,Positive,negative,1
+december week,Positive,negative,1
+december year,Positive,negative,1
+defender,Positive,negative,1
+defense department week,Positive,negative,1
+degree year,Positive,negative,1
+deloitte,Positive,negative,1
+delpy creator mimikatz,Positive,negative,1
+deutsche bank australian national university stanford university,Positive,negative,1
+devs devs,Positive,negative,1
+dialin,Negative,negative,1
+digenova,Negative,negative,2
+dingdong funny,Positive,negative,1
+diploma yeras university,Positive,negative,1
+dll,Positive,negative,2
+doc,Positive,negative,1
+doc,Positive,positive,1
+document week,Positive,negative,1
+dodin,Positive,negative,1
+dodin allows active management ip space ensure department operational,Positive,negative,1
+dodin part,Positive,negative,1
+donald trump,Negative,negative,1
+donald trump,Positive,negative,1
+douglas w,Positive,negative,1
+dozen,Positive,negative,2
+dozen dozen,Positive,negative,1
+dozen thousand dollar,Positive,negative,1
+dozen time week,Positive,negative,1
+dr robert blumofe urobertblumofe executive,Positive,negative,1
+ducky bash bunny,Positive,positive,1
+earlier year,Positive,negative,1
+ec,Positive,negative,1
+eccouncil couple day ago,Positive,negative,1
+eeffb edee,Positive,negative,1
+end year,Negative,negative,1
+english,Negative,negative,1
+english,Positive,negative,5
+enrollment v rpc enrollment,Negative,negative,1
+epa,Negative,negative,2
+eric kobrin,Positive,negative,1
+eric zimmermans,Negative,negative,1
+eu,Positive,negative,1
+eu threat intel,Positive,negative,1
+europe,Positive,negative,1
+evening,Positive,negative,1
+every day,Positive,negative,4
+every hour,Positive,negative,1
+every minute,Positive,negative,1
+every month,Positive,negative,1
+every morning,Negative,negative,1
+every week,Negative,negative,1
+every week,Positive,negative,2
+every year,Positive,negative,1
+exploit db respond,Positive,negative,1
+facet year,Positive,negative,1
+far isojune h isojune,Positive,negative,1
+fbi,Negative,negative,3
+fbi,Positive,negative,1
+fdaacedddfeaaadbadcba dacdcbeadefaebbc,Positive,negative,1
+february,Negative,negative,3
+fed,Negative,negative,1
+fed,Positive,negative,1
+first,Negative,negative,12
+first,Positive,negative,71
+first,Positive,positive,8
+first day,Positive,negative,2
+first minute,Positive,negative,1
+first month,Positive,negative,1
+first year,Positive,negative,1
+first zero day,Negative,negative,1
+firstly,Positive,negative,1
+five,Negative,negative,2
+five,Positive,negative,2
+five,Positive,positive,1
+fla,Positive,negative,1
+florida,Positive,negative,1
+foreachobject,Positive,negative,1
+fort knox,Positive,negative,1
+fort meade,Positive,negative,1
+foundation professional association school,Positive,negative,1
+four,Negative,negative,2
+four,Positive,negative,2
+four day,Negative,negative,1
+four year,Positive,negative,3
+four year school plus,Positive,negative,1
+fox corp uthemel,Positive,negative,1
+france,Negative,negative,2
+france,Positive,negative,1
+french,Negative,negative,1
+friday,Positive,negative,6
+full hacker,Negative,negative,1
+fulltime year ago,Positive,negative,1
+functiona w u g u acreateelementy g agetelementsbytagnamey uasync,Positive,negative,1
+gcfa,Positive,negative,1
+georgia weidman red team field,Positive,negative,1
+gerald auger,Positive,negative,1
+german,Negative,negative,3
+github chinese,Negative,negative,1
+github repos,Negative,negative,1
+go hour,Positive,negative,1
+going day,Negative,negative,1
+google,Negative,negative,6
+google,Positive,negative,9
+google cybersecurity,Negative,negative,2
+google cybersecurity,Positive,negative,2
+google github,Positive,negative,1
+google microsoft,Negative,negative,1
+gotten ton,Positive,negative,1
+gpt,Positive,negative,3
+gruplarnda,Neutral,negative,1
+hack boxctfs,Positive,negative,1
+hacker bruteforce victim,Negative,negative,1
+hacker news,Neutral,negative,1
+hacker news,Positive,negative,1
+hacker steven levy,Positive,positive,1
+hacking hour,Positive,negative,1
+hackxpert platform,Positive,positive,1
+half,Positive,negative,2
+half million,Negative,negative,1
+handson w bill stearns hour,Positive,negative,1
+hani neredesiniz,Neutral,negative,1
+hbo,Negative,negative,2
+hello infosec,Positive,negative,1
+herhangi bir,Neutral,negative,1
+hidden depth news,Positive,negative,1
+hisher github,Positive,negative,1
+hklmsystemhklmsecurityhklmsam blumira,Positive,negative,1
+hour,Positive,negative,9
+hour day year,Positive,negative,1
+hour minute,Positive,negative,2
+hsbc chanel bank,Positive,negative,1
+htb academy infosec,Negative,negative,1
+hugo,Positive,negative,1
+hundred,Positive,negative,4
+hundred thousand,Positive,negative,1
+hundred thousand year,Positive,negative,1
+hundred year,Positive,negative,1
+hydra bruteforce,Positive,negative,1
+iam idsips,Positive,negative,1
+iam perimeter,Positive,negative,1
+iam pimpam technology,Positive,negative,1
+iam security,Positive,negative,1
+ibm,Negative,negative,1
+ibm,Positive,negative,7
+im year old,Negative,negative,1
+imei,Negative,negative,1
+incognito mode,Positive,negative,1
+india assumed old,Positive,negative,1
+info article halo,Positive,negative,1
+info gb ram port,Positive,negative,1
+info labsblack box,Positive,negative,1
+info log file,Positive,negative,1
+info sec,Positive,negative,4
+info security,Positive,negative,1
+info smishphish,Positive,negative,1
+inn cso,Positive,negative,1
+installer package,Negative,negative,1
+intel,Negative,negative,1
+intel,Positive,negative,3
+intensive week,Positive,negative,1
+intro,Positive,negative,4
+ipc,Negative,negative,1
+ipc filepath,Negative,negative,1
+ipss,Negative,negative,1
+iran,Negative,negative,1
+iranian,Negative,negative,3
+islamic revolutionary guard corp irgc microsoft,Negative,negative,1
+istihbarat,Neutral,negative,1
+jablowme right,Positive,negative,1
+jack benny xb,Positive,negative,1
+james lee,Positive,negative,1
+january minute,Positive,negative,1
+japanese,Negative,negative,1
+javascript jit compiler,Positive,negative,1
+jerry perullo allan alford,Positive,negative,1
+jndi bracket,Positive,negative,1
+jobready magic,Positive,negative,1
+joe digenova,Negative,negative,1
+joe digital,Negative,negative,1
+joe missed,Negative,negative,1
+joe trycatchhcf,Negative,negative,1
+john,Positive,negative,2
+john hubbard,Positive,negative,1
+john oliver mckinsey,Negative,negative,1
+john reed,Positive,negative,1
+john strand,Negative,positive,1
+john strand,Positive,negative,1
+joker malware,Negative,negative,1
+josh thomas nathan keltner,Positive,negative,1
+jsp,Negative,negative,1
+juggler waterskier,Positive,negative,1
+july,Positive,negative,7
+july august,Positive,negative,1
+june,Positive,negative,1
+june,Positive,positive,1
+jwt attack graphql,Negative,negative,1
+k k,Negative,negative,1
+k k,Positive,negative,3
+kali,Positive,negative,1
+kali linux,Positive,negative,2
+kali nmap,Positive,negative,1
+kathryn kun xo,Positive,negative,1
+kentucky,Positive,negative,1
+kevin beaumont,Positive,negative,1
+kinda,Negative,negative,1
+kinda,Positive,negative,1
+kk,Negative,negative,1
+know hour,Positive,positive,1
+korean,Positive,positive,1
+kransom,Positive,negative,1
+kringlecon,Positive,negative,1
+la hackthebox,Positive,negative,1
+larry,Positive,negative,2
+last august,Positive,negative,1
+last couple year,Positive,negative,1
+last friday,Negative,negative,1
+last hour,Negative,negative,1
+last hour,Positive,negative,1
+last ish year,Positive,negative,1
+last month,Positive,negative,3
+last month,Positive,positive,1
+last night,Positive,negative,1
+last seven year,Positive,negative,1
+last two year,Negative,negative,1
+last week,Negative,negative,2
+last week,Neutral,negative,1
+last week,Positive,negative,8
+last year,Negative,negative,1
+last year,Neutral,negative,1
+last year,Positive,negative,11
+last year,Positive,positive,2
+last year two,Positive,negative,1
+late last year,Positive,negative,1
+late million,Negative,negative,1
+less month,Positive,negative,1
+less two week,Positive,negative,1
+less week,Positive,negative,1
+less week ago,Positive,negative,1
+less year,Positive,negative,1
+lesson defender,Positive,negative,1
+liken security,Positive,negative,1
+linkedin group,Positive,negative,1
+little decade,Positive,negative,1
+log analyst correlate data log information someone,Positive,negative,1
+logon authenticationpackagentlm,Negative,negative,1
+london,Positive,negative,1
+los angeles,Positive,negative,1
+los angeles,Positive,positive,1
+lou rabon,Positive,positive,1
+lou rabon uloucdg,Positive,positive,1
+louis postdispatch,Negative,negative,1
+mac io,Negative,negative,1
+macintosh,Positive,negative,1
+macos,Positive,negative,1
+macos backdoor,Negative,negative,1
+mafia,Negative,negative,1
+magic,Positive,negative,1
+many hour,Positive,negative,1
+many many hour,Positive,negative,1
+many year,Negative,negative,1
+many year,Positive,negative,1
+marine corp infantry,Positive,negative,1
+mark cv,Positive,negative,1
+mason,Positive,positive,1
+maybe half day,Positive,negative,1
+maybe month ago,Positive,negative,1
+maybe month half later,Positive,negative,1
+md,Positive,negative,1
+meaning year,Positive,negative,1
+mere minute,Positive,negative,1
+michael bazzell hacker,Positive,negative,1
+michael coates,Positive,positive,1
+microsoft,Negative,negative,7
+microsoft,Neutral,negative,1
+microsoft,Positive,negative,7
+microsoft cybersecurity,Positive,positive,1
+microsoft documentation,Negative,negative,1
+microsoft plz default poc utilizes,Negative,negative,1
+microsoft security bulletin,Positive,negative,1
+microsoft software development,Positive,positive,1
+midnight,Positive,negative,1
+midnovember,Negative,negative,1
+million,Negative,negative,2
+million,Neutral,negative,1
+million,Positive,negative,11
+million,Positive,positive,1
+million dollar,Positive,negative,1
+misc,Negative,negative,1
+missouri,Negative,negative,1
+mit university,Positive,negative,1
+mitre attck,Positive,negative,3
+mitre cveid,Negative,negative,1
+mne e effb edee,Positive,negative,1
+mod gchq,Positive,negative,1
+monday,Negative,negative,1
+monday,Positive,negative,7
+month,Negative,negative,1
+month,Positive,negative,9
+month ago,Negative,negative,3
+month ago,Positive,negative,1
+month ago later,Negative,negative,1
+month summer,Negative,negative,1
+month year,Positive,negative,1
+monthly,Negative,negative,1
+monthly,Positive,negative,4
+morning,Negative,negative,1
+morning,Positive,negative,3
+moroccan,Neutral,negative,1
+mount mount,Negative,negative,1
+msc compsci,Positive,negative,1
+msc cybersecurity month,Positive,negative,1
+msp year,Positive,negative,1
+mssamr protocol microsoft,Positive,negative,1
+multibillion dollar,Positive,negative,1
+multimillion dollar,Positive,negative,1
+multiweek,Positive,negative,1
+nan,Neutral,positive,392
+nasa msi,Positive,negative,1
+navy,Positive,negative,1
+nbob,Negative,negative,1
+nbtscan,Negative,negative,1
+nca ministry,Positive,negative,1
+nda,Positive,positive,1
+nearly year,Positive,negative,1
+netherlands,Positive,negative,1
+netsec,Positive,positive,1
+netsec hourlong meeting,Positive,negative,1
+netsec pentest,Positive,negative,1
+networktransport orand,Positive,negative,1
+new twopart,Negative,negative,1
+new year,Positive,negative,1
+new york,Positive,negative,1
+newbie,Positive,negative,5
+next attempt week,Negative,negative,1
+next couple month,Positive,negative,1
+next month,Positive,negative,5
+next month,Positive,positive,2
+next time year,Positive,negative,1
+next week,Negative,negative,1
+next week,Positive,negative,2
+next year,Positive,negative,2
+next year,Positive,positive,1
+nick,Positive,negative,2
+nick cano,Negative,negative,1
+nick cano,Positive,negative,1
+nick examsdigest jobsdigest,Positive,negative,1
+nick percoco cybersecurity,Positive,positive,1
+nick xb examsdigest,Positive,negative,1
+night weekend,Positive,negative,1
+nine,Positive,negative,3
+nocache contentlength,Positive,negative,1
+nocache xcloudsecuritydesc,Positive,negative,1
+noise past month,Positive,negative,1
+nolle,Positive,negative,1
+north korea,Negative,negative,1
+north korea,Positive,positive,1
+north korean,Negative,negative,1
+north korean,Positive,negative,1
+nov pm pm,Positive,negative,1
+nov pm pm est hour,Positive,negative,1
+november,Negative,negative,2
+november,Positive,negative,1
+november last year,Positive,negative,2
+nsfw smh,Positive,negative,1
+ntlm auth broadly,Negative,negative,1
+number day,Positive,negative,1
+number hour,Positive,negative,1
+nyu,Positive,negative,1
+oct,Positive,negative,1
+october,Negative,negative,1
+october,Positive,negative,2
+oldie goodie,Negative,negative,1
+one,Negative,negative,29
+one,Positive,negative,110
+one,Positive,positive,9
+one day,Negative,negative,1
+one day ago,Positive,negative,1
+one foot,Negative,negative,1
+one month,Positive,negative,1
+one st century,Positive,negative,1
+one summer,Positive,negative,2
+one two,Positive,negative,1
+one week,Negative,negative,1
+one year,Positive,negative,1
+one year two week later,Positive,negative,1
+onprem,Negative,negative,1
+opencti gather,Negative,negative,1
+org,Positive,negative,1
+oscp,Negative,negative,4
+oscp,Positive,negative,12
+oscp cisco,Positive,negative,1
+oscp cissp,Positive,negative,1
+oscp hackthebox,Positive,negative,1
+oscp proper preparation option later,Positive,negative,1
+oscp v ecppt,Positive,negative,1
+osx sufficient,Positive,negative,1
+palo alto,Negative,negative,1
+palo alto,Positive,negative,2
+palo alto network research center,Positive,negative,1
+pan wildfire,Positive,negative,1
+paris,Negative,negative,1
+pas cissp pas cisa organization,Positive,negative,1
+past couple month,Positive,positive,1
+past day,Positive,negative,1
+past decade,Positive,negative,1
+past five year,Positive,negative,1
+past month,Positive,negative,1
+past two half month,Positive,negative,1
+past week,Positive,negative,1
+past year,Positive,negative,6
+patch kb,Positive,negative,1
+patch management configuration management,Positive,negative,1
+patch microsoft,Positive,negative,1
+patricia titus,Positive,negative,1
+paul blankinship,Positive,negative,1
+pdf ebup file discipline,Positive,negative,1
+pentagon,Positive,negative,15
+petitpotam exploit msefsrpc encrypting file service,Negative,negative,1
+phd degree,Positive,negative,4
+platform study apt group,Positive,negative,1
+popped day,Negative,negative,1
+portugeese,Positive,negative,1
+prestashop module,Positive,negative,1
+previous month,Positive,negative,1
+prey upon,Positive,negative,1
+pwc kpmg,Positive,negative,1
+qutie irregulary kinda,Negative,negative,1
+ransomware notpetya wannacry,Positive,negative,1
+raspberry pi birthday,Positive,positive,1
+recent mshtmlactivex day,Positive,negative,1
+regexpcontainsinfo riglobalrootdeviceharddiskvolumeshadowcopydwindowssystemconfigsystemsecuritysam,Positive,negative,1
+request cveid,Negative,negative,1
+roderich kiesewetter,Negative,negative,1
+ross anderson,Positive,negative,3
+roughly week,Positive,positive,1
+royal bank canada huawei ministry,Positive,negative,1
+rtm locker,Negative,negative,1
+rtm locker ransomware,Negative,negative,2
+russia,Negative,negative,3
+russia,Positive,negative,1
+russian,Negative,negative,2
+russian,Positive,negative,1
+s hacker,Positive,positive,1
+s kinda,Negative,negative,1
+sam,Positive,negative,2
+san appliance,Positive,negative,1
+sandbox detonate,Positive,negative,1
+sandbox malware analysis,Positive,negative,1
+sans,Positive,negative,2
+saturday,Positive,positive,1
+sb news company,Negative,negative,1
+scan,Negative,negative,5
+scan,Positive,negative,11
+scan,Positive,positive,1
+scan come clean,Positive,negative,1
+scos infrastructure sdo represents,Negative,negative,1
+sec,Negative,negative,1
+sec,Positive,negative,21
+second,Negative,negative,2
+second,Positive,negative,10
+secondly,Positive,negative,1
+senate,Negative,negative,1
+senior year,Positive,negative,1
+sept,Positive,negative,1
+september,Negative,negative,2
+september,Positive,negative,3
+seven,Positive,negative,1
+several day,Positive,negative,1
+several dozen,Positive,negative,1
+several hundred,Positive,negative,3
+several million dollar,Positive,negative,1
+several month,Negative,negative,1
+several month ago,Negative,negative,1
+sha fcaabfbbdccaccff hybridanalysis,Neutral,negative,1
+shrunk decade,Negative,negative,1
+singapore,Positive,negative,1
+six,Positive,negative,3
+six low seven,Positive,negative,1
+six month ago,Positive,negative,2
+slas kpi,Positive,negative,1
+slate year,Positive,negative,1
+soc day day,Positive,negative,1
+soccertgovmailtosoccertgov week ago,Negative,negative,1
+sorta kinda,Positive,negative,1
+southeast asia,Positive,negative,1
+spectralblur overlap,Negative,negative,1
+squirrel,Negative,negative,1
+squirrel contrast,Negative,negative,1
+squirrel payload,Negative,negative,1
+squirrel payload selectable bashbunny,Negative,negative,1
+stanford,Positive,negative,3
+stanford university webinar,Positive,negative,2
+stanton,Negative,negative,1
+steve gibson,Positive,positive,1
+strictlycti,Positive,negative,1
+summer,Positive,negative,1
+summer,Positive,positive,1
+supreme court,Negative,negative,1
+swiss,Positive,positive,1
+syria,Neutral,negative,1
+syria,Positive,negative,1
+sys ldap,Positive,negative,1
+sysad tech,Positive,negative,1
+sysadmin,Positive,negative,3
+sysexit serveraddress sysargv user sysargv password sysargv,Positive,negative,1
+system year ago,Negative,negative,1
+systemk customer,Positive,negative,1
+taco bell,Positive,negative,1
+talking year ago,Positive,negative,1
+ten,Positive,negative,3
+ten,Positive,positive,1
+ten year,Positive,negative,1
+terabyte data,Positive,negative,1
+third,Positive,negative,5
+third year,Positive,negative,1
+third year,Positive,positive,1
+thirteen,Positive,negative,1
+thirteen threat month,Positive,negative,1
+thomas blog,Positive,negative,1
+thousand dollar,Positive,negative,1
+three,Negative,negative,6
+three,Positive,negative,11
+three day,Positive,negative,2
+three minute,Positive,negative,1
+three year,Positive,negative,1
+thursday,Negative,negative,2
+thursday,Positive,negative,1
+timex,Positive,positive,1
+tmpsnc w,Positive,negative,1
+today,Negative,negative,4
+today,Positive,negative,40
+today,Positive,positive,1
+today put hour,Neutral,negative,1
+tomorrow,Negative,negative,1
+tomorrow,Positive,negative,6
+tomorrow morning,Positive,negative,1
+toyota,Positive,negative,1
+training hour,Positive,negative,1
+trojan malware kimfilippovisioncom,Negative,negative,1
+tryhackme,Negative,negative,1
+tryhackme,Positive,negative,4
+tryhackme,Positive,positive,1
+tryhackme free,Positive,negative,1
+tryhackme hack box,Positive,negative,1
+tryhackme path,Positive,negative,1
+tspuorffuejeuo silqik kequjpwxpjqcdjmfklfpcwjhrlirabouwltzff,Positive,negative,1
+tssci earth,Positive,negative,1
+ttp ioc knowledge,Neutral,negative,1
+tue july pm pm,Positive,negative,1
+tuesday,Negative,negative,2
+tuesday,Neutral,negative,1
+tuesday,Positive,negative,3
+two,Negative,negative,12
+two,Positive,negative,28
+two,Positive,positive,2
+two three,Negative,negative,1
+two three,Positive,negative,1
+two three hour,Positive,negative,1
+two three year,Negative,negative,1
+two year,Positive,negative,2
+two year ago,Negative,negative,1
+two year ago,Positive,negative,2
+uincludesec erik cabetas,Positive,negative,1
+uk,Negative,negative,3
+uk,Positive,negative,1
+ukraine,Positive,negative,2
+ukraine russia cybersecurity titan,Positive,negative,1
+ukwwdloanndomwaaxzuqdrsewsonnrsn mfznlqlpdylsklfbn,Positive,negative,1
+united,Positive,negative,1
+united kingdom,Negative,negative,1
+united nation duke university,Positive,negative,1
+united state air force,Positive,negative,1
+united state secret,Positive,positive,1
+urg control flag,Positive,negative,1
+uri encoded,Positive,negative,1
+user gossithedog confirmed,Positive,negative,1
+vector,Positive,negative,1
+vector,Positive,positive,1
+vssadmin list,Positive,negative,2
+vulnhubs hack box,Negative,negative,1
+w amanda,Positive,negative,1
+w gparentnodeinsertbeforeu,Positive,negative,1
+w john ryan adrian,Positive,negative,1
+warner,Positive,negative,1
+washington,Positive,negative,1
+water curupira observed actively,Negative,negative,1
+wednesday,Neutral,negative,1
+wednesday,Positive,negative,1
+week,Negative,negative,2
+week,Positive,negative,5
+week ago,Negative,negative,2
+week ago,Positive,negative,1
+weekend,Positive,negative,1
+weekly,Positive,negative,3
+well pm pm,Positive,negative,1
+within month,Positive,negative,1
+working hour,Positive,positive,1
+working long hour,Positive,negative,1
+workshopstyle webcast,Positive,negative,1
+world year ago,Positive,negative,1
+writedata addfile technical detail,Negative,negative,1
+writeup new zero,Negative,negative,1
+xposting rlegaladvice throwaway,Positive,negative,1
+xsrf xss bad,Negative,negative,1
+yahoo,Positive,negative,3
+year,Negative,negative,1
+year,Positive,negative,20
+year,Positive,positive,1
+year ago,Positive,negative,5
+year later,Negative,negative,1
+year month,Positive,negative,1
+year xp,Positive,negative,1
+year year,Positive,negative,1
+yesterday,Negative,negative,5
+yesterday,Positive,negative,6
+yesterday,Positive,positive,1
+yubico,Positive,negative,1
+zero,Positive,negative,13
+zero,Positive,positive,1
+zero day,Negative,negative,1
+zero day,Positive,negative,1
+zngjvhxvkvknlle,Positive,negative,1
