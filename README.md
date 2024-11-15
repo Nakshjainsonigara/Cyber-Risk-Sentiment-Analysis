@@ -85,12 +85,15 @@ From Model Comparision, We infer that:
 
 - This difference highlights that VADER is better suited for general sentiment detection in informal contexts, while BERT’s ability to understand context in greater depth allows it to more confidently classify posts into distinct sentiment categories.
 
-Below is the percentage breakdown of sentiment classifications:
-
+<div align="center">
+  
 | **Model** | **Positive (%)** | **Neutral (%)** | **Negative (%)** |
 |-----------|------------------|-----------------|------------------|
 | **VADER** | 43.3%            | 42.8%           | 14.0%            |
 | **BERT**  | 48.2%            | N/A             | 51.8%            |
+
+</div>
+
 
 > **Note** : BERT does not have a Neutral classification by default because it is typically fine-tuned for binary sentiment analysis (Positive/Negative). However, Neutral can be incorporated by defining a probability threshold where the model classifies results as Neutral when its confidence in both Positive and Negative is below a certain level.
 
