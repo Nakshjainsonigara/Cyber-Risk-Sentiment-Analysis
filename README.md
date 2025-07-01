@@ -32,7 +32,7 @@ View the [Interactive Kaggle Notebook](https://www.kaggle.com/code/nakshjain11/c
 3. **Sentiment Analysis**  
    Two sentiment analysis methods are used:
    - **VADER**: A rule-based model optimized for social media text, assessing sentiment polarity.
-   - **BERT (DistilBERT)**: A transformer model fine-tuned for sentiment analysis, providing more nuanced sentiment classification.
+   - **Fine-tuned BERT**: A transformer model specifically fine-tuned on cybersecurity domain data for enhanced accuracy and domain adaptation, providing more nuanced sentiment classification tailored to cyber risk discussions.
 
 4. **Feature Extraction and Vectorization**  
    - **TF-IDF Vectorization** for feature extraction.
@@ -61,7 +61,7 @@ View the [Interactive Kaggle Notebook](https://www.kaggle.com/code/nakshjain11/c
 ## Algorithms and Libraries Used
 
 - **VADER Sentiment Analysis**: A lexicon and rule-based model designed for social media sentiment analysis.
-- **DistilBERT Sentiment Analysis**: A transformer-based model fine-tuned on sentiment data (SST-2).
+- **Fine-tuned BERT Sentiment Analysis**: A transformer-based model fine-tuned specifically on cybersecurity domain data for enhanced accuracy and better adaptation to cyber risk vocabulary and context.
 - **TF-IDF Vectorization**: Calculates term frequency-inverse document frequency for feature extraction.
 - **Count Vectorization**: Extracts features based on word frequency, useful for identifying prominent themes in cybersecurity discussions.
 - **Named Entity Recognition**: Extracts relevant entities (e.g., threats, technologies) for focused analysis.
@@ -81,9 +81,9 @@ From Model Comparision, We infer that:
 
 - **VADER** tends to categorize a larger portion of posts as **Neutral**, which might indicate that it is more conservative or cautious in assigning clear sentiment, especially with text that has mixed or subtle tones.
   
-- **BERT**, with its deep learning capabilities, provides more **decisive** sentiment labels, leaning towards **Positive** and **Negative** classifications, which suggests that it is better at capturing stronger sentiments or more polarized opinions in the data.
+- **Fine-tuned BERT**, with its domain-specific training on cybersecurity data, provides more **accurate** sentiment classification tailored to cyber risk contexts, better understanding cybersecurity-specific vocabulary and sentiment expressions compared to generic pre-trained models.
 
-- This difference highlights that VADER is better suited for general sentiment detection in informal contexts, while BERT’s ability to understand context in greater depth allows it to more confidently classify posts into distinct sentiment categories.
+- This difference highlights that VADER is better suited for general sentiment detection in informal contexts, while the fine-tuned BERT's domain-specific training allows it to more accurately classify sentiment in cybersecurity discussions, understanding context and terminology specific to cyber risk scenarios.
 
 <div align="center">
   
@@ -108,6 +108,6 @@ The top entities reveal focused areas in cyber risk discussions:
 ---
 
 ## Conclusion
-This project demonstrates the use of NLP in understanding public sentiment on cybersecurity risks. By identifying sentiment patterns and commonly discussed threats, organizations can gain insights that support proactive risk management and inform cybersecurity strategies. Future work may explore the integration of additional NLP models, such as BERT-based topic modeling, and expanded data sources for a more comprehensive risk intelligence assessment.
+This project demonstrates the use of NLP in understanding public sentiment on cybersecurity risks. By identifying sentiment patterns and commonly discussed threats, organizations can gain insights that support proactive risk management and inform cybersecurity strategies. The implementation of fine-tuned BERT models specifically trained on cybersecurity domain data represents a significant improvement over generic sentiment analysis approaches, providing more accurate and context-aware sentiment classification for cyber risk discussions. Future work may explore expanded datasets, multi-label classification for different types of cyber threats, and integration with real-time threat intelligence feeds for comprehensive risk assessment.
 
 ---
